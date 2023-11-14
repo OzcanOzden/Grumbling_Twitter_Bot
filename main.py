@@ -7,9 +7,9 @@ from selenium.webdriver.common.by import By
 URL_SPEED_TEST = "https://www.speedtest.net/"
 URL_TWITTER = "https://twitter.com/"
 URL_TWEET = "https://twitter.com/compose/tweet"
-MAIL = "radyoterapi1@outlook.com"
-USERNAME = "LockieHafza"
-PASSWORD = "onkoloji1"
+MAIL = ""
+USERNAME = ""
+PASSWORD = ""
 
 
 class complain_bot():
